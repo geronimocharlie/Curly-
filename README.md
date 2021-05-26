@@ -1,6 +1,6 @@
 # Curly-
 
-Reimplementation of curriculum designt using paired ([see the paper](https://arxiv.org/pdf/2012.02096.pdf)) with gridworlds. 
+Reimplementation of curriculum designt with the  paired algorithm([see the paper](https://arxiv.org/pdf/2012.02096.pdf)) with gridworlds. Based on the Really (reinforcement learinng using ray) framework.
 
 **main.py** - main loop
 
