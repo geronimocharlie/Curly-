@@ -1,0 +1,11 @@
+
+
+# a2c value reg + entropy reg
+
+
+FANCY:
+- env max time steps
+- load model with name spec.
+- print info
+- progress bar over epochs
+- colour list for aggregator
